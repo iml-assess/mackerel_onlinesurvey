@@ -1,0 +1,45 @@
+From: Rivierre, Antoine 
+Sent: November-08-18 3:50 PM
+To: Van Beveren, Elisabeth; Smith, Andrew (IML)
+Cc: Castonguay, Martin; Plourde, Stéphane
+Subject: RE: sondage maquereau 
+
+Bonjour Élisabeth,
+J’ai consulté quelques collègues dans les bureaux de secteurs concernant le sondage et j’ai reçu quelques commentaires pour le sondage.
+Si cela est pertinent, voici ce qui ressort :
+
+Page 1 : Grossir la police d’écriture, le pêcheur risque de passer par-dessus, c’est très petit.
+Page 2 : mettre les définitions des types de pêche tel que le MPO les définit (commerciale, appât et récréatif).
+Page 4 : Je suggère : « indiquez pour quelles pêches vous utilisez le maquereau comme appâts » 
+Page 6 : À la question « Dans quelle région est-ce que vous pêchez habituellement? » qu’est-ce qu’on veut obtenir comme réponse? Pas clair pour moi. (pê utiliser la notion de secteur de pêche)
+Page 6 : A la question « Où est-ce que vous débarquez les maquereaux? » est-ce qu’on recherche le port de débarquement? Si oui, préciser.
+Page 7 : « bordereaux d’achat », je rajouterai « SLIP  de pêche » ou une expression mieux connue par les pêcheurs.
+Page 7 : à la dernière question, que veut-on savoir ? cette phrase gagnerait à y apporter quelques précisions. 
+Page 8 : A la question « Croyez-vous que la proportion des débarquements déclarés (pour laquelle vous avez reçu un bordereau d'achat) a changé pendant ces années (par exemple ont-ils baissé ou monté)? » qu’est-ce qu’on veut obtenir comme réponse? Est-ce de savoir si les pêcheurs déclarent mieux leurs capturent ou si on veut savoir si la perception du pêcheur est que le stock est à la baisse/hausse? 
+Page 9 : Je suggère : Si vous avez des commentaires ou de l’information additionnelle sur le maquereau, n’hésitez pas à les ajouter ici.
+
+Own remarks:
+- Q1: choice bait/commercial/recreational 
+        add 'I did not fish mackerel this year' and 'Bycatch'
+	classify your MACKEREL fishing activity
+
+Specify that if you buy your bait (you don't fish it yourself), no need to fill in this survey
+
+- Q2 gear type: add 'Handline'
+ in the french version add jigger (including mechanised) to turlutte
+
+- Q3: what region: change to what province
+
+Purchase slips: maybe add something like 'I don't know what this is'? recreational fishers shouldn't have this question but hard to exclude..
+There are some that buy mackerel and seem to think that this is also a purchase slip
+
+for bait use: if they sell it to a plant than some seem to gamble that it will  probably be used for bait...
+people who say all is declared shouldn't really be getting this question?
+
+discarded can be interpreted as thrown back into the water for the tuna fishery. 
+several who don't understand the question.or put 100% when that obviously is not the case.Could this be multiple choice?
+0%, 1-5%, 5-10%, etc.
+
+Idem for how long fished. could be on and off
+
+A changed in declared is mostly perceived as a change in stock size . delete this question. Or make it only for the ones that have purchase slips or so.
