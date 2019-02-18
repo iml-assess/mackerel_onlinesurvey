@@ -7,4 +7,4 @@ Rproject to analyse online survey results.
 
 "Informal survey of Canadian Atlantic mackerel commercial, recreational and bait fishers."
 
-Raw data is private is available on the repositry.
+Sensitive raw data is unavailable on the repositry.
